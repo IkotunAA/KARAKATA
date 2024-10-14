@@ -1,0 +1,6 @@
+@KARAKATA_HostAddress = http://localhost:5142
+
+GET {{KARAKATA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
